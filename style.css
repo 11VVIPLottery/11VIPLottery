@@ -82,3 +82,28 @@ color:gold;
 text-decoration:none;
 font-size:14px;
 }
+.wallet-section{
+padding:20px;
+}
+
+.wallet-card{
+background:#1c1f4f;
+padding:15px;
+margin-bottom:20px;
+border-radius:10px;
+}
+
+.wallet-card input{
+width:100%;
+padding:10px;
+margin:10px 0;
+}
+
+.wallet-card button{
+width:100%;
+padding:10px;
+background:gold;
+border:none;
+border-radius:5px;
+font-weight:bold;
+}
